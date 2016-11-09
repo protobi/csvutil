@@ -1,0 +1,15 @@
+{
+  "name": "csvutil",
+  "version": "1.0.0",
+  "description": "Simple utilities to manage arrays of data rows",
+  "main": "csvutil.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Pieter Sheth-Voss",
+  "license": "MIT", 
+  "repository": {
+   "type":"git",
+   "url":"https://github.com/protobi/csvutil.git"
+  }
+}
